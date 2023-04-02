@@ -2,9 +2,9 @@
 	{
 		"ip": "147.50.240.53",
 		"port": 5555,
-		"id": 0,
+		"id": -1,
 		"color":"ff2624",
-		"action": 0,
+		"action": -1,
 		"key":"",
 		"name":"TEST"
 	}
