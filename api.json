@@ -8,5 +8,5 @@
     "URL_YOUTUBE": "https://",
     "URL_FORUM": "https://",
     "URL_DONATE": "https://",
-    "URL_CLIENT": "https://127.0.0.1/mobile/client.apk"
+    "URL_CLIENT": "http://147.50.240.53/mobile/client.apk"
 }
